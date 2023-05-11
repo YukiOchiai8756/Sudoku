@@ -1,0 +1,50 @@
+.navBar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #30D5C8;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.importer {
+    background-color: transparent;
+    display: none;
+}
+
+.importer-holder {
+    display: none;
+}
+
+input[type="file"] {
+    border: none;
+}
+
+/* .navBar .loginLink {
+    padding:20px;
+    text-decoration:none;
+    color:white;
+    font-weight: 600;
+}
+
+.navBar .registerLink {
+    padding:20px;
+    text-decoration:none;
+    color:white;
+    font-weight: 600;
+} */
+
+.navBar .creatorLink {
+    padding: 30px 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.navBar .browserLink {
+    padding: 30px 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+

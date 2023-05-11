@@ -1,0 +1,56 @@
+{
+  "fedAPI": {
+    "servers": [
+      {
+        "groupNo": 10,
+        "token": "S10HtokACcUN9HuPOalGI5nri60JBAdTMOFV9mMmfHTb2ak7Jsh+yxSv17LSKn/c1Gu+9tRMHyPue3U3xA8utrKx07c0W7kwR0iL",
+        "redirect": ""
+      },
+      {
+        "groupNo": 11,
+        "token": "QyAJqaHxyYEHZe+EkJrvRkdfQWHXv0ZL24roymia7v696TiP9Fo2tkKnTYK92UEel5Q1aTV5MDQbppdLCerlyT+aIA8BqfzGgefQ",
+        "redirect": ""
+      },
+      {
+        "groupNo": 12,
+        "token": "7u7TYHoI+xKmT8cc4cYB3wR3Qze/dfehhiaZQoVp3t7NKEar8osLBJyZBSA53I+LLRPaInb0sCtPAoVo+GFb5yz5Y4oUcdmVoGiV",
+        "redirect": "redirect"
+      },
+      {
+        "groupNo": 13,
+        "token": "rtcrug6pcBvlgLNEKZdvscenOXHKM9CaSeD++QYYG9+0AJX3ueHrPACaK129WnCGKnvGQHLtIUirqMvFfvnVAJI+HwemPT5eVKyz",
+        "redirect": ""
+      },
+      {
+        "groupNo": 14,
+        "token": "3kpvcwwx/3+mP0ruu5jLqr8iMgmHvXh50mVGCgxmdzdbP0VfuJL9vAvkEL9naJWjfPQUagWkd2eTHLKkiScejt6mBzl4mS+gob9n",
+        "redirect": ""
+      },
+      {
+        "groupNo": 15,
+        "token": "iDEDTcauD5wt8l8YUwVbhBt9kbpFwPC+gCdVMe4GFck+fbY+YOZ0Y5zItBkYghoeuxpcTZGUvv8mEZY/Zc4e2cDeq+h1x+5QrSwS",
+        "redirect": ""
+      },
+      {
+        "groupNo": 16,
+        "token": "GMOeXsWPz8eGloWop6AvRs43n4+3RijXAQSaqNXlwPrIdPT5vo+vZc9eR19dKayRZc4Ollt/HkFQccJKmsOVFdsnxatK8BLkoYXD",
+        "redirect": ""
+      },
+      {
+        "groupNo": 17,
+        "token": "7GKgMxKlxhofMgAPd4QEMbu4qxSrr8tHZynJe4M9OxkOR4tpfLkr9o159L8PcB0q1xDSIi2z/hs42uVT17KE9gDEPYXBuPYCgaT7",
+        "redirect": ""
+      },
+      {
+        "groupNo": 18,
+        "token": "hCm/JHFoaV1ilvhWN5JJCDQo8ntzWhLWot4MCZKO1xGzWp1lHKs9lWDV8oHjhmqbRf60BzNk1EGQoJJg2lSPoLqL8tdEEWRKGX4k",
+        "redirect": ""
+      },
+      {
+        "groupNo": 19,
+        "token": "9IG53gw1t2MolUyQtfJ6qZeDhUEVXzGJvCLmHOx45S2XTiQwSTzEQFYKi/+Tt9X50knt/57x16s3VdlCytQpB8TduQ9fAHjBT+3c",
+        "redirect": ""
+      }
+    ]
+  }
+}

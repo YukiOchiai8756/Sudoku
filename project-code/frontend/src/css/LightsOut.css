@@ -1,0 +1,22 @@
+#name-box::placeholder {
+    opacity: 0;
+}
+
+#name-box:empty::placeholder {
+    opacity: 1;
+}
+
+.square {
+    width: 90px;
+    height: 90px;
+    border-style: solid;
+    border-color: black;
+    background-color: #f2d675;
+    font-size: x-large;
+}
+
+.controls-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
