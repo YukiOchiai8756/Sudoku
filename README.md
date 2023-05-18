@@ -1,6 +1,3 @@
-# CS3099 Group 19 - Junior Honours Project
-Fantastic Puzzles Fife
-
 ## Deploying
 Deployment is made simple by the "deploy.sh" script.
 ### Dependencies
